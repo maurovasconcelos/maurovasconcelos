@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/maurovasconcelos">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maurovasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurovasconcelos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maurovasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurovasconcelos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -17,8 +17,10 @@
 </div>
   
 ##
-  
+<div>
   <a href = "mailto:maurohunt@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/mauro-júnio-79650a203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   
-![Snake animation](https://github.com/rafaballerini/maurovasconcelos/blob/output/github-contribution-grid-snake.svg)
+</div>
+![Snake animation](https://github.com/maurovasconcelos/maurovasconcelos/blob/output/github-contribution-grid-snake.svg)
