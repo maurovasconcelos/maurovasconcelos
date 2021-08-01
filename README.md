@@ -19,8 +19,7 @@
 ##
 <div>
   <a href = "mailto:maurohunt@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/mauro-júnio-79650a203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
+  <a href="linkedin.com/in/mauro-júnio-79650a203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
 ![Snake animation](https://github.com/maurovasconcelos/maurovasconcelos/blob/output/github-contribution-grid-snake.svg)
